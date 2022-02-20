@@ -60,7 +60,14 @@ end)
 
 ```
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/SlayersUnleashedAdmin'),true))()
-
 ```
 
-Como baixar o executor: ![image](https://user-images.githubusercontent.com/84140840/154851987-a58dea0e-93fa-4c4b-a5ea-fc9e4a3d3182.png)
+Krnl é o executor mais recomendado,confiável e sem bugs.
+ 
+*Baixe o executor: https://krnl.vip/executor/
+
+*Instale o Krnl e depois de mostra a pasta do krnl abra o krnl.exe
+
+ Algum scripit citado em cima.
+
+Fim! Irei adcionar mais depois.
